@@ -14,9 +14,6 @@
 
 Étudiant passionné par le **design, le web et la création graphique**, je m'intéresse à tout ce qui touche à l'esthétique, à l'ergonomie et à la créativité.
 
-Ce projet a été réalisé dans le cadre de mes études en **communication visuelle et multimédia**.  
-Il présente mes compétences en **graphisme**, **web design** et **création de contenus numériques**.
-
 ---
 
 ## 🎨 Mes créations
