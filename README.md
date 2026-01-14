@@ -2,7 +2,7 @@
 
 # 🎨 Portfolio de Julien
 
-### Étudiant en 2e année de WMI (Web et Médias Interactifs)
+### Étudiant en 2e année de WMI (Webmaster et Métiers de l'Internet)
 
 [![Website](https://img.shields.io/badge/Portfolio-Visiter%20mon%20site-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://julientaverne.fr)
 
@@ -12,7 +12,7 @@
 
 ## 👋 Présentation
 
-Étudiant de **20 ans** en **2e année de WMI** (Web et Médias Interactifs), je suis passionné par le **design, le web et la création graphique**. Je m'intéresse à tout ce qui touche à l'esthétique, à l'ergonomie et à la créativité.
+Étudiant de **20 ans** en **2e année de WMI** (Webmaster et Métiers de l'Internet), je suis passionné par le **design, le web et la création graphique**. Je m'intéresse à tout ce qui touche à l'esthétique, à l'ergonomie et à la créativité.
 
 ---
 
