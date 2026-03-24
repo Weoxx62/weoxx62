@@ -12,7 +12,7 @@
 
 ## 👋 Présentation
 
-Étudiant de **20 ans** en **2e année de WMI** (Webmaster et Métiers de l'Internet), je suis passionné par le **design, le web et la création graphique**. Je m'intéresse à tout ce qui touche à l'esthétique, à l'ergonomie et à la créativité.
+Étudiant de **21 ans** en **2e année de WMI** (Webmaster et Métiers de l'Internet), je suis passionné par le **design, le web et la création graphique**. Je m'intéresse à tout ce qui touche à l'esthétique, à l'ergonomie et à la créativité.
 
 ---
 
